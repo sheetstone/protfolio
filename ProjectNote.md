@@ -3,4 +3,5 @@ Tech Stack for portfolio project
 https://www.sanity.io/docs/getting-started
     Sanity init
 
-2. 
+2. Install some dependency:
+npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
